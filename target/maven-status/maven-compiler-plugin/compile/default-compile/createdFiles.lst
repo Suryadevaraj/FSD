@@ -1,0 +1,7 @@
+com\dell\fsd\LockedMe\services\DirectoryService.class
+com\dell\fsd\LockedMe\screens\FileOptionsScreen.class
+com\dell\fsd\LockedMe\screens\WelcomeScreen.class
+com\dell\fsd\LockedMe\services\ScreenService.class
+com\dell\fsd\LockedMe\entities\Directory.class
+com\dell\fsd\LockedMe\VirtualKeyApplication.class
+com\dell\fsd\LockedMe\screens\Screen.class
